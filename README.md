@@ -24,4 +24,4 @@ This project follows Git Flow with the following branches:
 - `main` - Production releases
 - `develop` - Integration branch for features
 - `feature/*` - Feature branches
-- `qa` - Quality assurance/testing branch
+- `qa` - Quality assurance/testing branchQA Branch
